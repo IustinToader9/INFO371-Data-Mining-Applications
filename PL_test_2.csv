@@ -1,0 +1,381 @@
+﻿Date,HomeTeam,AwayTeam,outcome_by_HOME,AVERAGE_ODD_WIN,AVERAGE_ODD_DRAW,AVERAGE_ODD_OPPONENT_WIN,RANKINGHOME,RANKING AWAY,LAST_GAME_RHOMETEAM,LAST_GAME_RAWAYTEAM
+10/8/18,Man United,Leicester,W,6.689,7.483,6.007,2,9,0,0
+11/8/18,Bournemouth,Cardiff,W,6.552,7.232,3.881,12,20,0,0
+11/8/18,Fulham,Crystal Palace,L,6.742,7.169,2.8,20,11,0,0
+11/8/18,Huddersfield,Chelsea,L,9.071,8.001,2.156,16,5,0,0
+11/8/18,Newcastle,Tottenham,L,7.552,7.373,2.266,10,3,0,0
+11/8/18,Watford,Brighton,W,6.69,6.894,3.15,14,15,0,0
+11/8/18,Wolves,Everton,D,6.568,6.868,3.043,20,8,0,0
+12/8/18,Arsenal,Man City,L,7.591,7.473,2.122,6,1,0,0
+12/8/18,Liverpool,West Ham,W,7.247,8.719,10.521,4,13,0,0
+12/8/18,Southampton,Burnley,D,6.547,7.054,4.295,17,7,0,0
+18/08/2018,Cardiff,Newcastle,D,7.335,7.042,2.599,20,10,-1,-1
+18/08/2018,Chelsea,Arsenal,W,6.744,7.605,3.799,5,6,1,-1
+18/08/2018,Everton,Southampton,W,6.677,7.15,3.933,8,17,0,0
+18/08/2018,Leicester,Wolves,W,6.8,7.304,3.433,9,20,-1,0
+18/08/2018,Tottenham,Fulham,W,7.417,9.088,9.057,3,20,1,-1
+18/08/2018,West Ham,Bournemouth,L,6.805,7.49,3.269,13,12,-1,1
+19/08/2018,Brighton,Man United,W,8.837,7.775,2.215,15,2,-1,1
+19/08/2018,Burnley,Watford,L,7.059,6.939,3.165,7,14,0,1
+19/08/2018,Man City,Huddersfield,W,10.092,13.385,24.249,1,16,1,-1
+20/08/2018,Crystal Palace,Liverpool,L,9.88,8.742,2.068,11,4,1,1
+25/08/2018,Arsenal,West Ham,W,7.075,7.951,6.853,6,13,-1,-1
+25/08/2018,Bournemouth,Everton,D,7.032,7.32,2.598,12,8,1,1
+25/08/2018,Huddersfield,Cardiff,D,6.906,6.918,3.337,16,20,-1,0
+25/08/2018,Liverpool,Brighton,W,8.498,10.375,15.628,4,15,1,1
+25/08/2018,Southampton,Leicester,L,6.935,7.179,3.003,17,9,-1,1
+25/08/2018,Wolves,Man City,D,12.8,10.527,2.383,20,1,-1,1
+26/08/2018,Fulham,Burnley,W,6.574,6.883,3.753,20,7,-1,-1
+26/08/2018,Newcastle,Chelsea,L,8.912,8.163,2.112,10,5,0,1
+26/08/2018,Watford,Crystal Palace,W,7.127,7.199,2.816,14,11,1,-1
+27/08/2018,Man United,Tottenham,L,7.138,7.355,2.747,2,3,-1,1
+1/9/18,Brighton,Fulham,D,6.527,7.024,3.118,15,20,-1,1
+1/9/18,Chelsea,Bournemouth,W,7.065,8.506,8.244,5,12,1,0
+1/9/18,Crystal Palace,Southampton,L,6.335,6.821,3.719,11,17,-1,-1
+1/9/18,Everton,Huddersfield,D,6.478,7.281,6.118,8,16,0,0
+1/9/18,Leicester,Liverpool,L,9.81,8.775,2.143,9,4,1,1
+1/9/18,Man City,Newcastle,W,9.058,11.451,20.177,1,10,0,-1
+1/9/18,West Ham,Wolves,L,6.767,7.203,2.733,13,20,-1,0
+2/9/18,Burnley,Man United,L,8.73,7.649,2.192,7,2,-1,-1
+2/9/18,Cardiff,Arsenal,L,8.96,8.06,2.105,20,6,0,1
+2/9/18,Watford,Tottenham,W,8.534,7.915,2.068,14,3,1,1
+15/09/2018,Bournemouth,Leicester,W,6.713,7.222,2.83,12,9,-1,-1
+15/09/2018,Chelsea,Cardiff,W,8.045,9.932,14.082,5,20,1,-1
+15/09/2018,Huddersfield,Crystal Palace,L,7.269,7.055,2.559,16,11,0,-1
+15/09/2018,Man City,Fulham,W,8.837,11.556,17.822,1,20,1,0
+15/09/2018,Newcastle,Arsenal,L,7.717,7.512,2.139,10,6,-1,1
+15/09/2018,Tottenham,Liverpool,L,7.047,7.315,2.339,3,4,-1,1
+15/09/2018,Watford,Man United,L,7.917,7.655,2.196,14,2,1,1
+16/09/2018,Everton,West Ham,L,6.567,7.209,3.338,8,13,0,-1
+16/09/2018,Wolves,Burnley,W,6.574,7.132,4.704,20,7,1,-1
+17/09/2018,Southampton,Brighton,D,6.475,6.85,3.5,17,15,1,0
+22/09/2018,Brighton,Tottenham,L,8.34,7.943,2.101,15,3,0,-1
+22/09/2018,Burnley,Bournemouth,W,7.075,7.314,2.547,7,12,-1,1
+22/09/2018,Cardiff,Man City,L,18.155,12.199,3.197,20,1,-1,1
+22/09/2018,Crystal Palace,Newcastle,D,6.7,7.241,3.363,11,10,1,-1
+22/09/2018,Fulham,Watford,D,6.873,7.339,2.724,20,14,-1,-1
+22/09/2018,Leicester,Huddersfield,W,6.734,7.573,5.359,9,16,-1,-1
+22/09/2018,Liverpool,Southampton,W,7.937,9.239,13.072,4,17,1,0
+22/09/2018,Man United,Wolves,D,6.713,7.782,5.268,2,20,1,1
+23/09/2018,Arsenal,Everton,W,6.661,7.375,5.689,6,8,1,-1
+23/09/2018,West Ham,Chelsea,D,9.002,8.37,2.04,13,5,1,1
+29/09/2018,Arsenal,Watford,W,6.764,7.508,5.565,6,14,1,0
+29/09/2018,Chelsea,Liverpool,D,7.063,7.323,2.46,5,4,0,1
+29/09/2018,Everton,Fulham,W,6.429,7.356,3.944,8,20,-1,0
+29/09/2018,Huddersfield,Tottenham,L,10.314,8.79,2.202,16,3,-1,1
+29/09/2018,Man City,Brighton,W,9.806,12.777,23.594,1,15,1,-1
+29/09/2018,Newcastle,Leicester,L,6.913,7.212,2.822,10,9,0,1
+29/09/2018,West Ham,Man United,W,7.924,7.686,2.143,13,2,0,0
+29/09/2018,Wolves,Southampton,W,6.681,7.336,4.203,20,17,0,-1
+30/09/2018,Cardiff,Burnley,L,6.913,6.945,2.996,20,7,-1,1
+1/10/18,Bournemouth,Crystal Palace,W,6.641,7.22,3.007,12,11,-1,0
+5/10/18,Brighton,West Ham,W,6.507,6.783,2.725,15,13,-1,1
+6/10/18,Burnley,Huddersfield,D,6.28,6.445,3.778,7,16,1,-1
+6/10/18,Crystal Palace,Wolves,L,6.537,6.639,2.632,11,20,-1,1
+6/10/18,Leicester,Everton,L,6.173,6.734,3.166,9,8,1,1
+6/10/18,Man United,Newcastle,W,6.419,7.557,6.585,2,10,-1,-1
+6/10/18,Tottenham,Cardiff,W,7.187,8.804,11.095,3,20,1,-1
+6/10/18,Watford,Bournemouth,L,6.266,6.947,3.139,14,12,-1,1
+7/10/18,Fulham,Arsenal,L,7.746,7.202,2.005,20,6,-1,1
+7/10/18,Liverpool,Man City,D,6.338,6.743,2.644,4,1,0,1
+7/10/18,Southampton,Chelsea,L,8.557,7.766,2.113,17,5,-1,0
+20/10/2018,Bournemouth,Southampton,D,6.449,7.087,3.347,12,17,1,-1
+20/10/2018,Cardiff,Fulham,W,6.741,7.121,2.766,20,20,-1,-1
+20/10/2018,Chelsea,Man United,D,6.443,7.22,4.32,5,2,1,1
+20/10/2018,Huddersfield,Liverpool,L,12.49,9.618,2.484,16,4,0,0
+20/10/2018,Man City,Burnley,W,10.161,13.009,24.35,1,7,0,0
+20/10/2018,Newcastle,Brighton,L,6.506,6.664,3.464,10,15,-1,1
+20/10/2018,West Ham,Tottenham,L,7.488,7.375,2.121,13,3,-1,1
+20/10/2018,Wolves,Watford,L,6.429,7.093,4.537,20,14,1,-1
+21/10/2018,Everton,Crystal Palace,W,6.426,7.032,4.01,8,11,1,-1
+22/10/2018,Arsenal,Leicester,W,6.497,6.881,5.199,6,9,1,-1
+27/10/2018,Brighton,Wolves,W,7.033,6.622,2.56,15,20,1,-1
+27/10/2018,Fulham,Bournemouth,L,6.849,6.905,2.381,20,12,-1,0
+27/10/2018,Leicester,West Ham,D,6.481,6.737,3.335,9,13,-1,-1
+27/10/2018,Liverpool,Cardiff,W,9.235,12.028,20.785,4,20,1,1
+27/10/2018,Southampton,Newcastle,D,6.492,6.616,3.497,17,10,0,-1
+27/10/2018,Watford,Huddersfield,W,6.439,6.854,4.48,14,16,1,-1
+28/10/2018,Burnley,Chelsea,L,11.666,8.999,2.397,7,5,-1,0
+28/10/2018,Crystal Palace,Arsenal,D,7.932,7.381,2.049,11,6,-1,1
+28/10/2018,Man United,Everton,W,6.419,6.998,4.366,2,8,0,1
+29/10/2018,Tottenham,Man City,L,7.974,7.309,2.052,3,1,1,1
+3/11/18,Arsenal,Liverpool,D,7.248,7.278,2.179,6,4,0,1
+3/11/18,Bournemouth,Man United,L,7.281,7.214,2.233,12,2,1,1
+3/11/18,Cardiff,Leicester,L,7.338,7.049,2.347,20,9,-1,0
+3/11/18,Everton,Brighton,W,6.518,7.285,5.302,8,15,-1,1
+3/11/18,Newcastle,Watford,W,6.754,6.856,2.736,10,14,0,1
+3/11/18,West Ham,Burnley,W,6.448,7.105,4.4,13,7,0,-1
+3/11/18,Wolves,Tottenham,L,6.949,6.558,2.469,20,3,-1,-1
+4/11/18,Chelsea,Crystal Palace,W,7.15,8.518,9.343,5,11,1,0
+4/11/18,Man City,Southampton,W,8.907,11.51,21.032,1,17,1,0
+5/11/18,Huddersfield,Fulham,W,6.325,6.724,3.031,16,20,-1,-1
+10/11/18,Cardiff,Brighton,W,6.578,6.55,2.948,20,15,-1,-1
+10/11/18,Crystal Palace,Tottenham,L,7.861,7.406,2.127,11,3,-1,1
+10/11/18,Huddersfield,West Ham,D,7.144,6.955,2.449,16,13,1,1
+10/11/18,Leicester,Burnley,D,6.595,7.552,5.971,9,7,1,-1
+10/11/18,Newcastle,Bournemouth,W,6.819,6.977,2.576,10,12,1,-1
+10/11/18,Southampton,Watford,D,6.632,6.894,2.875,17,14,-1,-1
+11/11/18,Arsenal,Wolves,D,6.437,7.334,4.645,6,20,0,-1
+11/11/18,Chelsea,Everton,D,6.643,7.588,6.36,5,8,1,1
+11/11/18,Liverpool,Fulham,W,9.046,11.79,19.835,4,20,0,-1
+11/11/18,Man City,Man United,W,6.693,7.728,6.547,1,2,1,1
+24/11/2018,Brighton,Leicester,D,6.843,6.887,2.665,15,9,-1,0
+24/11/2018,Everton,Cardiff,W,6.689,7.893,6.772,8,20,0,1
+24/11/2018,Fulham,Southampton,W,6.711,7.007,2.668,20,17,-1,0
+24/11/2018,Man United,Crystal Palace,D,6.71,7.981,6.819,2,11,-1,-1
+24/11/2018,Tottenham,Chelsea,W,6.817,7.055,2.508,3,5,1,0
+24/11/2018,Watford,Liverpool,L,8.967,8.105,2.09,14,4,0,1
+24/11/2018,West Ham,Man City,L,12.777,10.114,2.438,13,1,0,1
+25/11/2018,Bournemouth,Arsenal,L,7.298,7.041,2.141,12,6,-1,0
+25/11/2018,Wolves,Huddersfield,L,6.629,7.407,6.52,20,16,0,0
+26/11/2018,Burnley,Newcastle,L,6.827,6.693,2.714,7,10,0,1
+30/11/2018,Cardiff,Wolves,W,7.315,6.88,2.42,20,20,-1,-1
+1/12/18,Crystal Palace,Burnley,W,6.499,7.096,5.292,11,7,0,-1
+1/12/18,Huddersfield,Brighton,L,6.625,6.435,3.22,16,15,1,0
+1/12/18,Leicester,Watford,W,6.535,6.755,3.172,9,14,0,-1
+1/12/18,Man City,Bournemouth,W,8.797,11.645,18.506,1,12,1,-1
+1/12/18,Newcastle,West Ham,L,6.636,6.765,2.907,10,13,1,-1
+1/12/18,Southampton,Man United,D,7.686,7.195,2.199,17,2,-1,0
+2/12/18,Arsenal,Tottenham,W,6.71,6.777,2.564,6,3,1,1
+2/12/18,Chelsea,Fulham,W,7.77,9.664,12.986,5,20,-1,1
+2/12/18,Liverpool,Everton,W,6.717,7.847,6.988,4,8,1,1
+4/12/18,Bournemouth,Huddersfield,W,6.457,7.05,4.741,12,16,-1,-1
+4/12/18,Brighton,Crystal Palace,W,6.865,6.566,2.729,15,11,1,1
+4/12/18,Watford,Man City,L,12.072,9.547,2.318,14,1,-1,1
+4/12/18,West Ham,Cardiff,W,6.224,6.991,4.823,13,20,1,1
+5/12/18,Burnley,Liverpool,L,13.15,9.843,2.492,7,4,-1,1
+5/12/18,Everton,Newcastle,D,6.515,7.138,5.478,8,10,-1,-1
+5/12/18,Fulham,Leicester,D,6.928,6.959,2.426,20,9,-1,1
+5/12/18,Man United,Arsenal,D,6.602,6.929,2.754,2,6,0,1
+5/12/18,Tottenham,Southampton,W,6.765,7.982,7.372,3,17,-1,0
+5/12/18,Wolves,Chelsea,W,8.105,7.393,2.137,20,5,-1,1
+8/12/18,Arsenal,Huddersfield,W,7.082,8.368,9.421,6,16,0,-1
+8/12/18,Bournemouth,Liverpool,L,8.774,7.628,2.05,12,4,1,1
+8/12/18,Burnley,Brighton,W,6.824,6.579,2.747,7,15,-1,1
+8/12/18,Cardiff,Southampton,W,6.845,6.775,2.624,20,17,-1,-1
+8/12/18,Chelsea,Man City,W,7.527,7.29,2.146,5,1,-1,1
+8/12/18,Leicester,Tottenham,L,7.448,7.161,2.206,9,3,0,1
+8/12/18,Man United,Fulham,W,6.837,8.266,7.645,2,20,0,0
+8/12/18,West Ham,Crystal Palace,W,6.531,6.808,3.1,13,11,1,-1
+9/12/18,Newcastle,Wolves,L,6.849,6.596,2.692,10,20,0,1
+10/12/18,Everton,Watford,D,6.421,7.065,4.23,8,14,0,-1
+15/12/2018,Crystal Palace,Leicester,W,6.483,6.567,2.872,11,9,-1,-1
+15/12/2018,Fulham,West Ham,L,6.667,6.917,2.405,20,13,-1,1
+15/12/2018,Huddersfield,Newcastle,L,6.485,6.385,2.987,16,10,-1,-1
+15/12/2018,Man City,Everton,W,7.145,9.036,10.679,1,8,-1,0
+15/12/2018,Tottenham,Burnley,W,7.643,9.538,13.948,3,7,1,1
+15/12/2018,Watford,Cardiff,W,6.255,7.033,4.971,14,20,0,1
+15/12/2018,Wolves,Bournemouth,W,6,6.776,3.627,20,12,1,-1
+16/12/2018,Brighton,Chelsea,L,9.571,8.092,2.195,15,5,-1,1
+16/12/2018,Liverpool,Man United,W,6.292,7.383,5.22,4,2,1,1
+16/12/2018,Southampton,Arsenal,W,7.32,7.134,2.113,17,6,-1,1
+21/12/2018,Wolves,Liverpool,L,9.036,7.724,2.2,20,4,1,1
+22/12/2018,Arsenal,Burnley,W,7.162,8.954,11.339,6,7,-1,-1
+22/12/2018,Bournemouth,Brighton,W,6.206,6.825,3.809,12,15,-1,-1
+22/12/2018,Cardiff,Man United,L,8.737,7.737,2.127,20,2,-1,-1
+22/12/2018,Chelsea,Leicester,L,6.718,8.095,8.502,5,9,1,-1
+22/12/2018,Huddersfield,Southampton,L,6.73,6.574,2.64,16,17,-1,1
+22/12/2018,Man City,Crystal Palace,L,8.169,10.835,16.552,1,11,1,1
+22/12/2018,Newcastle,Fulham,D,6.213,6.802,3.558,10,20,1,-1
+22/12/2018,West Ham,Watford,L,6.23,6.689,2.877,13,14,1,1
+23/12/2018,Everton,Tottenham,L,6.828,6.762,2.351,8,3,-1,1
+26/12/2018,Brighton,Arsenal,D,8.217,7.53,2.104,15,6,-1,1
+26/12/2018,Burnley,Everton,L,7.698,7.128,2.218,7,8,-1,-1
+26/12/2018,Crystal Palace,Cardiff,D,6.353,7.16,4.826,11,20,1,-1
+26/12/2018,Fulham,Wolves,D,6.947,6.858,2.444,20,20,0,-1
+26/12/2018,Leicester,Man City,W,11.013,8.927,2.256,9,1,1,-1
+26/12/2018,Liverpool,Newcastle,W,7.996,10.482,14.688,4,10,1,0
+26/12/2018,Man United,Huddersfield,W,7.299,8.952,11.441,2,16,1,-1
+26/12/2018,Tottenham,Bournemouth,W,6.703,8.203,7.558,3,12,1,1
+26/12/2018,Watford,Chelsea,L,8.095,7.487,2.104,14,5,1,-1
+27/12/2018,Southampton,West Ham,L,6.42,6.895,2.994,17,13,1,-1
+29/12/2018,Brighton,Everton,W,7.084,6.94,2.333,15,8,0,1
+29/12/2018,Fulham,Huddersfield,W,6.348,6.614,3.601,20,16,0,-1
+29/12/2018,Leicester,Cardiff,L,6.41,7.319,5.224,9,20,1,0
+29/12/2018,Liverpool,Arsenal,W,6.439,7.74,5.272,4,6,1,0
+29/12/2018,Tottenham,Wolves,L,6.707,7.92,7.592,3,20,1,0
+29/12/2018,Watford,Newcastle,D,6.309,6.971,4.046,14,10,-1,-1
+30/12/2018,Burnley,West Ham,W,6.883,6.851,2.342,7,13,-1,1
+30/12/2018,Crystal Palace,Chelsea,L,8.114,7.503,2.11,11,5,0,1
+30/12/2018,Man United,Bournemouth,W,6.676,8.15,7.475,2,12,1,-1
+30/12/2018,Southampton,Man City,L,11.327,9.301,2.283,17,1,-1,-1
+1/1/19,Arsenal,Fulham,W,6.606,8.222,7.491,6,20,-1,1
+1/1/19,Cardiff,Tottenham,L,9.454,8.053,2.123,20,3,1,-1
+1/1/19,Everton,Leicester,L,6.241,6.727,3.553,8,9,-1,-1
+2/1/19,Bournemouth,Watford,D,6.467,6.839,2.644,12,14,-1,0
+2/1/19,Chelsea,Southampton,D,6.934,8.598,9.244,5,17,1,-1
+2/1/19,Huddersfield,Burnley,L,6.265,6.378,3.656,16,7,-1,1
+2/1/19,Newcastle,Man United,L,8.668,7.689,2.066,10,2,0,1
+2/1/19,West Ham,Brighton,D,6.203,6.834,3.59,13,15,-1,1
+2/1/19,Wolves,Crystal Palace,L,6.24,6.533,3.734,20,11,1,-1
+3/1/19,Man City,Liverpool,W,6.252,6.984,3.126,1,4,1,1
+12/1/19,Brighton,Liverpool,L,11.533,9.56,2.362,15,4,0,-1
+12/1/19,Burnley,Fulham,W,6.581,6.964,3.047,7,20,1,-1
+12/1/19,Cardiff,Huddersfield,D,6.522,6.755,3.386,20,16,-1,-1
+12/1/19,Chelsea,Newcastle,W,7.518,9.381,11.664,5,10,0,-1
+12/1/19,Crystal Palace,Watford,L,6.521,7.023,3.178,11,14,1,0
+12/1/19,Leicester,Southampton,L,6.426,7.109,3.821,9,17,1,0
+12/1/19,West Ham,Arsenal,W,7.245,7.411,2.161,13,6,0,1
+13/01/2019,Everton,Bournemouth,W,6.419,7.381,4.062,8,12,-1,0
+13/01/2019,Tottenham,Man United,L,6.477,7.198,3.248,3,2,1,1
+14/01/2019,Man City,Wolves,W,7.661,10.035,12.895,1,20,1,-1
+19/01/2019,Arsenal,Chelsea,W,6.738,7.053,2.349,6,5,-1,1
+19/01/2019,Bournemouth,West Ham,W,6.353,6.895,2.78,12,13,-1,1
+19/01/2019,Liverpool,Crystal Palace,W,7.456,9.762,12.939,4,11,1,-1
+19/01/2019,Man United,Brighton,W,6.797,8.389,8.982,2,15,1,-1
+19/01/2019,Newcastle,Cardiff,W,6.238,6.729,3.906,10,20,-1,0
+19/01/2019,Southampton,Everton,W,6.527,6.848,2.633,17,8,1,1
+19/01/2019,Watford,Burnley,D,6.231,7.204,4.801,14,7,1,1
+19/01/2019,Wolves,Leicester,W,6.342,6.549,3.198,20,9,-1,-1
+20/01/2019,Fulham,Tottenham,L,8.197,7.405,2.161,20,3,-1,-1
+20/01/2019,Huddersfield,Man City,L,18.705,13.331,3.409,16,1,0,1
+29/01/2019,Arsenal,Cardiff,W,7.199,8.974,10.996,6,20,1,-1
+29/01/2019,Fulham,Brighton,W,6.368,6.709,3.091,20,15,-1,-1
+29/01/2019,Huddersfield,Everton,L,7.332,6.944,2.319,16,8,-1,-1
+29/01/2019,Man United,Burnley,D,6.943,8.61,9.953,2,7,1,0
+29/01/2019,Newcastle,Man City,W,15.946,11.557,2.913,10,1,1,1
+29/01/2019,Wolves,West Ham,W,6.257,6.855,3.405,20,13,1,-1
+30/01/2019,Bournemouth,Chelsea,W,8.338,7.767,2.079,12,5,1,-1
+30/01/2019,Liverpool,Leicester,D,7.171,9.055,11.016,4,9,1,-1
+30/01/2019,Southampton,Crystal Palace,D,6.349,6.803,2.979,17,11,1,-1
+30/01/2019,Tottenham,Watford,W,6.227,7.196,4.785,3,14,1,0
+2/2/19,Brighton,Watford,D,6.342,6.642,2.833,15,14,-1,-1
+2/2/19,Burnley,Southampton,D,6.343,6.707,2.782,7,17,0,0
+2/2/19,Cardiff,Bournemouth,W,6.706,6.864,2.38,20,12,-1,1
+2/2/19,Chelsea,Huddersfield,W,7.316,9.416,13.628,5,16,-1,-1
+2/2/19,Crystal Palace,Fulham,W,6.116,6.776,3.475,11,20,0,1
+2/2/19,Everton,Wolves,L,6.249,6.685,2.976,8,20,1,1
+2/2/19,Tottenham,Newcastle,W,6.404,7.465,7.201,3,10,1,1
+3/2/19,Leicester,Man United,L,6.981,6.924,2.266,9,2,0,0
+3/2/19,Man City,Arsenal,W,6.573,8.488,7.369,1,6,-1,1
+4/2/19,West Ham,Liverpool,D,9.93,8.733,2.157,13,4,-1,0
+6/2/19,Everton,Man City,L,11.26,9.452,2.249,8,1,-1,1
+9/2/19,Brighton,Burnley,L,6.012,6.504,3.727,15,7,0,0
+9/2/19,Crystal Palace,West Ham,D,6.024,6.621,3.354,11,13,1,0
+9/2/19,Fulham,Man United,L,8.044,7.517,2.049,20,2,-1,1
+9/2/19,Huddersfield,Arsenal,L,8.26,7.634,2.096,16,6,-1,-1
+9/2/19,Liverpool,Bournemouth,W,7.122,9.412,11.931,4,12,0,-1
+9/2/19,Southampton,Cardiff,L,5.982,6.802,4.321,17,20,0,1
+9/2/19,Watford,Everton,W,6.123,6.637,2.957,14,8,0,-1
+10/2/19,Man City,Chelsea,W,6.1,7.241,5.518,1,5,1,1
+10/2/19,Tottenham,Leicester,W,5.996,6.889,4.641,3,9,1,-1
+11/2/19,Wolves,Newcastle,D,6.002,6.772,4.898,20,10,1,-1
+22/02/2019,Cardiff,Watford,L,6.382,6.556,2.49,20,14,1,1
+22/02/2019,West Ham,Fulham,W,5.982,6.823,3.562,13,20,0,-1
+23/02/2019,Bournemouth,Wolves,D,6.383,6.601,2.603,12,20,-1,0
+23/02/2019,Burnley,Tottenham,W,8.027,7.304,2.119,7,3,1,1
+23/02/2019,Leicester,Crystal Palace,L,5.95,6.421,3.279,9,11,-1,0
+23/02/2019,Newcastle,Huddersfield,W,5.873,6.447,4.528,10,16,0,-1
+24/02/2019,Arsenal,Southampton,W,5.963,7.161,5.626,6,17,1,-1
+24/02/2019,Man United,Liverpool,D,6.528,6.773,2.385,2,4,1,1
+26/02/2019,Cardiff,Everton,L,7.032,6.85,2.328,20,8,-1,-1
+26/02/2019,Huddersfield,Wolves,W,7.89,6.938,2.282,16,20,-1,0
+26/02/2019,Leicester,Brighton,W,6.106,6.713,3.927,9,15,-1,-1
+26/02/2019,Newcastle,Burnley,W,6.163,6.59,3.503,10,7,1,1
+27/02/2019,Arsenal,Bournemouth,W,6.257,7.634,6.168,6,12,1,0
+27/02/2019,Chelsea,Tottenham,W,6.226,6.761,2.96,5,3,-1,-1
+27/02/2019,Crystal Palace,Man United,L,6.689,6.855,2.386,11,2,1,0
+27/02/2019,Liverpool,Watford,W,6.751,8.375,9.618,4,14,0,1
+27/02/2019,Man City,West Ham,W,7.741,10.322,14.685,1,13,1,1
+27/02/2019,Southampton,Fulham,W,6.095,6.811,3.756,17,20,-1,-1
+2/3/19,Bournemouth,Man City,L,12.843,10.936,2.51,12,1,-1,1
+2/3/19,Brighton,Huddersfield,W,6.006,6.47,4.514,15,16,-1,1
+2/3/19,Burnley,Crystal Palace,L,6.359,6.558,2.652,7,11,-1,-1
+2/3/19,Man United,Southampton,W,6.181,7.357,6.552,2,17,1,1
+2/3/19,Tottenham,Arsenal,D,5.898,6.763,3.297,3,6,-1,1
+2/3/19,West Ham,Newcastle,W,6.029,6.526,3.323,13,10,-1,1
+2/3/19,Wolves,Cardiff,W,6.117,7.169,6.13,20,20,-1,-1
+3/3/19,Everton,Liverpool,D,8.279,7.518,2.118,8,4,1,1
+3/3/19,Fulham,Chelsea,L,8.772,7.948,2.085,20,5,-1,1
+3/3/19,Watford,Leicester,W,6.192,6.57,2.86,14,9,-1,1
+9/3/19,Cardiff,West Ham,W,6.766,6.759,2.314,20,13,-1,1
+9/3/19,Crystal Palace,Brighton,L,5.98,6.632,4.214,11,15,1,1
+9/3/19,Huddersfield,Bournemouth,L,6.739,6.626,2.428,16,12,-1,-1
+9/3/19,Leicester,Fulham,W,6.015,7.21,4.854,9,20,-1,-1
+9/3/19,Man City,Watford,W,7.722,10.517,15.465,1,14,1,1
+9/3/19,Newcastle,Everton,W,6.353,6.475,2.746,10,8,-1,0
+9/3/19,Southampton,Tottenham,W,7.321,7.144,2.136,17,3,-1,0
+10/3/19,Arsenal,Man United,W,6.156,6.739,2.76,6,2,0,1
+10/3/19,Chelsea,Wolves,D,6.08,7.067,5.75,5,20,1,1
+10/3/19,Liverpool,Burnley,W,7.55,9.877,15.069,4,7,0,-1
+16/03/2019,Bournemouth,Newcastle,D,6.136,6.719,3.386,12,10,1,1
+16/03/2019,Burnley,Leicester,L,6.644,6.762,2.461,7,9,-1,1
+16/03/2019,West Ham,Huddersfield,W,6.176,7.173,5.605,13,16,-1,-1
+17/03/2019,Everton,Chelsea,W,7.325,7.111,2.179,8,5,-1,0
+17/03/2019,Fulham,Liverpool,L,12.952,10.468,2.457,20,4,-1,1
+30/03/2019,Brighton,Southampton,L,6.125,6.189,2.953,15,17,1,1
+30/03/2019,Burnley,Wolves,W,6.576,6.535,2.535,7,20,-1,0
+30/03/2019,Crystal Palace,Huddersfield,W,6.214,7.238,6.878,11,16,-1,-1
+30/03/2019,Fulham,Man City,L,18.767,13.751,3.254,20,1,-1,1
+30/03/2019,Leicester,Bournemouth,W,5.982,6.833,3.826,9,12,1,0
+30/03/2019,Man United,Watford,W,6.165,7.435,6.477,2,14,-1,-1
+30/03/2019,West Ham,Everton,L,6.216,6.659,2.714,13,8,1,1
+31/03/2019,Cardiff,Chelsea,L,9.979,8.221,2.231,20,5,1,-1
+31/03/2019,Liverpool,Tottenham,W,6.009,7.103,4.87,4,3,1,-1
+1/4/19,Arsenal,Newcastle,W,6.157,7.608,7.105,6,10,1,0
+2/4/19,Watford,Fulham,W,6.082,6.696,4.205,14,20,-1,-1
+2/4/19,Wolves,Man United,W,7.318,7.044,2.232,20,2,-1,1
+3/4/19,Chelsea,Brighton,W,6.979,8.444,10.954,5,15,1,-1
+3/4/19,Man City,Cardiff,W,11.15,14.597,33.015,1,20,1,-1
+3/4/19,Tottenham,Crystal Palace,W,6.258,7.483,6.052,3,11,-1,1
+5/4/19,Southampton,Liverpool,L,10.239,8.608,2.261,17,4,1,1
+6/4/19,Bournemouth,Burnley,L,6.136,6.708,3.291,12,7,-1,1
+6/4/19,Huddersfield,Leicester,L,8.046,7.299,2.131,16,9,-1,1
+6/4/19,Newcastle,Crystal Palace,L,6.338,6.598,2.907,10,11,-1,-1
+7/4/19,Everton,Arsenal,W,6.626,6.976,2.349,8,6,1,1
+8/4/19,Chelsea,West Ham,W,6.423,7.979,7.898,5,13,1,-1
+12/4/19,Leicester,Newcastle,L,6.141,6.924,4.927,9,10,1,-1
+13/04/2019,Brighton,Bournemouth,L,6.099,6.545,3.133,15,12,-1,-1
+13/04/2019,Burnley,Cardiff,W,6.108,6.786,3.86,7,20,1,-1
+13/04/2019,Fulham,Everton,W,7.726,7.447,2.08,20,8,-1,1
+13/04/2019,Man United,West Ham,W,6.352,7.781,6.532,2,13,-1,-1
+13/04/2019,Southampton,Wolves,W,6.371,6.583,2.866,17,20,-1,1
+13/04/2019,Tottenham,Huddersfield,W,7.156,9.204,12.236,3,16,1,-1
+14/04/2019,Crystal Palace,Man City,L,11.589,9.196,2.336,11,1,1,1
+14/04/2019,Liverpool,Chelsea,W,6.098,7.169,4.486,4,5,1,1
+15/04/2019,Watford,Arsenal,L,6.601,6.843,2.25,14,6,1,-1
+16/04/2019,Brighton,Cardiff,L,5.903,6.243,3.908,15,20,-1,-1
+20/04/2019,Bournemouth,Fulham,L,5.856,6.985,4.284,12,20,1,1
+20/04/2019,Huddersfield,Watford,L,7.381,7.017,2.134,16,14,-1,-1
+20/04/2019,Man City,Tottenham,W,6.698,8.646,8.72,1,3,1,1
+20/04/2019,Newcastle,Southampton,W,6.318,6.536,3.006,10,17,1,1
+20/04/2019,West Ham,Leicester,D,6.582,6.757,2.349,13,9,-1,-1
+20/04/2019,Wolves,Brighton,D,6.01,6.604,4.872,20,15,-1,-1
+21/04/2019,Arsenal,Crystal Palace,L,5.934,7.118,5.438,6,11,1,-1
+21/04/2019,Cardiff,Liverpool,L,15.245,11.103,2.792,20,4,1,1
+21/04/2019,Everton,Man United,W,6.73,6.755,2.352,8,2,-1,1
+22/04/2019,Chelsea,Burnley,D,6.569,8.243,10.475,5,7,-1,1
+23/04/2019,Tottenham,Brighton,W,6.695,8.225,9.562,3,15,-1,0
+23/04/2019,Watford,Southampton,D,6.195,6.641,3.047,14,17,1,-1
+24/04/2019,Man United,Man City,L,9.256,8.245,2.081,2,1,-1,1
+24/04/2019,Wolves,Arsenal,W,6.422,6.586,2.494,20,6,0,-1
+26/04/2019,Liverpool,Huddersfield,W,10.535,14.415,30.246,4,16,1,-1
+27/04/2019,Brighton,Newcastle,D,6.209,6.42,3.286,15,10,-1,1
+27/04/2019,Crystal Palace,Everton,D,6.362,6.65,2.695,11,8,1,1
+27/04/2019,Fulham,Cardiff,W,6.252,6.875,2.795,20,20,1,-1
+27/04/2019,Southampton,Bournemouth,D,6.081,6.953,3.64,17,12,0,-1
+27/04/2019,Tottenham,West Ham,L,6.303,7.758,6.05,3,13,1,0
+27/04/2019,Watford,Wolves,L,6.369,6.635,2.796,14,20,0,1
+28/04/2019,Burnley,Man City,L,18.507,13.262,3.262,7,1,0,1
+28/04/2019,Leicester,Arsenal,W,6.425,6.832,2.481,9,6,0,-1
+28/04/2019,Man United,Chelsea,D,6.398,6.68,2.616,2,5,-1,0
+3/5/19,Everton,Burnley,W,6.016,6.835,4.849,8,7,0,-1
+4/5/19,Bournemouth,Tottenham,W,7.273,7.172,2.103,12,3,0,-1
+4/5/19,Cardiff,Crystal Palace,L,6.374,6.83,2.592,20,11,-1,0
+4/5/19,Newcastle,Liverpool,L,11.185,8.838,2.359,10,4,0,1
+4/5/19,West Ham,Southampton,W,6.113,6.699,2.811,13,17,1,0
+4/5/19,Wolves,Fulham,W,6.074,6.968,5.726,20,20,1,1
+5/5/19,Arsenal,Brighton,D,6.251,7.535,7.075,6,15,-1,0
+5/5/19,Chelsea,Watford,W,6.26,7.615,6.848,5,14,0,-1
+5/5/19,Huddersfield,Man United,D,11.451,9.215,2.336,16,2,-1,0
+6/5/19,Man City,Leicester,W,7.562,10.197,13.921,1,9,1,1
+12/5/19,Brighton,Man City,L,17.134,12.605,2.965,15,1,0,1
+12/5/19,Burnley,Arsenal,L,6.59,6.887,2.244,7,6,-1,0
+12/5/19,Crystal Palace,Bournemouth,W,6.077,7.058,3.446,11,12,1,1
+12/5/19,Fulham,Newcastle,L,6.328,6.86,2.66,20,10,-1,-1
+12/5/19,Leicester,Chelsea,D,6.265,6.909,2.726,9,5,-1,1
+12/5/19,Liverpool,Wolves,W,6.619,8.266,8.563,4,20,1,1
+12/5/19,Man United,Cardiff,L,6.563,8.631,8.438,2,20,0,-1
+12/5/19,Southampton,Huddersfield,D,6.204,7.47,6.521,17,16,-1,0
+12/5/19,Tottenham,Everton,D,6.153,6.795,3.233,3,8,-1,1
+12/5/19,Watford,West Ham,L,6.192,6.87,2.88,14,13,-1,1
